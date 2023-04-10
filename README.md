@@ -1,7 +1,7 @@
 - 👋 Hi, I’m wytan
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking forward for more internship opportunities
+- 👀
+- 🌱 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
