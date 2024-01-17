@@ -15,7 +15,8 @@ I'm currently a Data Science and Artificial Intelligence student at NTU, Singapo
 
 ## Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wytan12&show_icons=true&theme=radical&locale=en&layout=compact" alt="wytan12" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wytan12&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=wytan12&show_icons=true&theme=radical&locale=en&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wytan12&show_icons=true&theme=radical&title_color=ffffff&text_color=495fd0&bg_color=0c0c0d&locale=en" alt="wytan12" /></p>
 
