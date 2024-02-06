@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-My portfolio website [here](https://wy-personal-portfolio.vercel.app/)
+[Here](https://wy-personal-portfolio.vercel.app/) is my personal portfolio website
 
 I'm currently a Data Science and Artificial Intelligence student at NTU, Singapore.
 - 👯 I’m looking forward to collaborate on open source projects.
