@@ -5,6 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+[![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
 
 [Here](https://wy-personal-portfolio.vercel.app/) is my personal portfolio website
 
@@ -30,6 +31,6 @@ I'm currently a Data Science and Artificial Intelligence student at NTU, Singapo
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
 
-height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-or
+
+<height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-or
