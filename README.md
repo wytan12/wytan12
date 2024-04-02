@@ -31,6 +31,3 @@ I'm currently a Data Science and Artificial Intelligence student at NTU, Singapo
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-
-<height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-or
