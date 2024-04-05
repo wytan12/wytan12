@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /><br>
 
 [![](https://visitcount.itsvg.in/api?id=wytan12&icon=0&color=7)](https://visitcount.itsvg.in)
 
@@ -13,7 +13,7 @@
 
 I'm currently a Data Science and Artificial Intelligence student at NTU, Singapore.
 - 👯 I’m looking forward to collaborate on open-source projects.
-- 📖 I love to read novels, 🖌️ do painting and skecthing and 🎵 listen to music.
+- 📖 I love to read novels, 🖌️ do painting and skecthing and 🎵 listen to music. 
 
 
 # 💻 Tech Stack:
