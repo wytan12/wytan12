@@ -9,12 +9,6 @@
 
 [Here](https://wy-personal-portfolio.vercel.app/) is my personal portfolio website <br>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
 I'm currently a Data Science and Artificial Intelligence student at NTU, Singapore.
 - 👯 I’m looking forward to collaborate on open-source projects.
 - 📖 I love to read novels, 🖌️ do painting and skecthing and 🎵 listen to music.
